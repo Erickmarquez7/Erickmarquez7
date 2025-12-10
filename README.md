@@ -13,21 +13,24 @@ Programa de 8 cursos enfocado en fundamentos de ciberseguridad, investigación d
 
 ## 🔐 Ciberseguridad
 
-[![Enumeración de red con Nmap – HTB](img/ciberseguridad/nmap)](https://academy.hackthebox.com/achievement/badge/07885fa1-910f-11f0-9254-bea50ffe6cb4)
-**Enumeración de red con Nmap – Hack The Box Academy**
+[**Fundamentos de windows**](https://academy.hackthebox.com/achievement/badge/34298e2b-a6fa-11f0-9254-bea50ffe6cb4) – Hack The Box Academy
 
-[![Introducción a bash scripting – HTB](img/ciberseguridad/intro-script)](https://academy.hackthebox.com/achievement/badge/beb4274c-9be2-11f0-9254-bea50ffe6cb4)
-**Introducción a bash scripting – Hack The Box Academy**
+[**Introducción a bash scripting**](https://academy.hackthebox.com/achievement/badge/beb4274c-9be2-11f0-9254-bea50ffe6cb4) – Hack The Box Academy
 
-[![Peticiones web – HTB](img/ciberseguridad/web-request)](https://academy.hackthebox.com/achievement/badge/6501e613-99c8-11f0-9254-bea50ffe6cb4)
-**Peticiones web – Hack The Box Academy**
+[**Transferencia de archivos**](https://academy.hackthebox.com/achievement/badge/3892b382-bb36-11f0-9254-bea50ffe6cb4) – Hack The Box Academy
+
+[**Peticiones web**](https://academy.hackthebox.com/achievement/badge/6501e613-99c8-11f0-9254-bea50ffe6cb4) – Hack The Box Academy
+
+[**Enumeración de red con Nmap**](https://academy.hackthebox.com/achievement/badge/07885fa1-910f-11f0-9254-bea50ffe6cb4) – Hack The Box Academy
+
+[**Fuerza bruta**](https://academy.hackthebox.com/achievement/badge/987da438-d232-11f0-9254-bea50ffe6cb4) – Hack The Box Academy
 
 ---
 
 ## 💻 Programación y Desarrollo
 
-[![Git y GitHub – Oracle + Alura Latam]](https://app.aluracursos.com/certificate/dayan-stiker/git-github-control-version)
-**Git y GitHub: Control de versiones – Oracle + Alura Latam**
+[**Git y GitHub – Oracle + Alura Latam**](https://app.aluracursos.com/certificate/dayan-stiker/git-github-control-version) – Oracle + Alura Latam
+
 
 ---
 
